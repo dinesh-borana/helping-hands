@@ -1,2 +1,2 @@
-# helping-hands
-A System to Maintain the ongoing social works and its updates
+# Helping Hands
+A View to show ongoing social works done by team of few people
