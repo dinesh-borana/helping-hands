@@ -1,0 +1,19 @@
+{
+  "name": "helping-hands",
+  "version": "1.0.0",
+  "description": "A View to show ongoing social works done by team of few people",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinesh-borana/helping-hands.git"
+  },
+  "author": "Dinesh Borana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dinesh-borana/helping-hands/issues"
+  },
+  "homepage": "https://github.com/dinesh-borana/helping-hands#readme"
+}
